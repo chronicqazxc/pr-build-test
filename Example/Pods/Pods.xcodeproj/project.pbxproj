@@ -31,11 +31,11 @@
 
 /* Begin PBXFileReference section */
 		08AF7C8D32F9A29689A8FBB0547F7B69 /* Pods-PRBuildTest_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PRBuildTest_Example-umbrella.h"; sourceTree = "<group>"; };
-		1590558A2CB3CCE853CD191993768D8C /* Pods_PRBuildTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PRBuildTest_Example.framework; path = "Pods-PRBuildTest_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1590558A2CB3CCE853CD191993768D8C /* Pods_PRBuildTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PRBuildTest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		31BC56D6A48020117BA235F788E31736 /* Pods-PRBuildTest_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PRBuildTest_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		383F89FF1C17AD56B9961C705C11C49F /* PRBuildTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PRBuildTest.xcconfig; sourceTree = "<group>"; };
 		43E08B650D8E647210372EE5BFF8E09B /* Pods-PRBuildTest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PRBuildTest_Tests-dummy.m"; sourceTree = "<group>"; };
-		45879F749CC280C84E7CDA319414C3A1 /* PRBuildTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = PRBuildTest.modulemap; sourceTree = "<group>"; };
+		45879F749CC280C84E7CDA319414C3A1 /* PRBuildTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = PRBuildTest.modulemap; sourceTree = "<group>"; };
 		4899022F973CDFAB1D917524624D112E /* PRBuildTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PRBuildTest-dummy.m"; sourceTree = "<group>"; };
 		4CAB899E14D75519B998BEF007E98654 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B0D92CC65023450DB8D1AA551DE6C5C /* PRBuildTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PRBuildTest-prefix.pch"; sourceTree = "<group>"; };
@@ -46,16 +46,16 @@
 		7A0A0F2846AF0E5ED792055E8204486F /* Pods-PRBuildTest_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PRBuildTest_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7A0A326F8CC1B0A7EE2FACC708F32263 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		873E770FDCA0B2B4E052FC31E8FAC613 /* Pods-PRBuildTest_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PRBuildTest_Tests-umbrella.h"; sourceTree = "<group>"; };
-		8D9B793039FF76FC0AC14D9E7F44890E /* Pods_PRBuildTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PRBuildTest_Tests.framework; path = "Pods-PRBuildTest_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8D9B793039FF76FC0AC14D9E7F44890E /* Pods_PRBuildTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PRBuildTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9C88143450206B79FFE757781CE3339D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A10CE17025AE96E6BBE8B0CDBA2658B1 /* Pods-PRBuildTest_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PRBuildTest_Example-resources.sh"; sourceTree = "<group>"; };
-		A2EBB5B00E3AFC5D65CCEC2B5FB0F189 /* PRBuildTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PRBuildTest.framework; path = PRBuildTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A6D99571EF708B6EB48B146EC705AB2B /* Pods-PRBuildTest_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-PRBuildTest_Example.modulemap"; sourceTree = "<group>"; };
+		A2EBB5B00E3AFC5D65CCEC2B5FB0F189 /* PRBuildTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PRBuildTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6D99571EF708B6EB48B146EC705AB2B /* Pods-PRBuildTest_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-PRBuildTest_Example.modulemap"; sourceTree = "<group>"; };
 		B6602E9EE1C843D298720774884FC9D2 /* Pods-PRBuildTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PRBuildTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B9B49208BDA5F25993DFF1C4E671A6DD /* Pods-PRBuildTest_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PRBuildTest_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		C50BEE20953628B3522378A13EE99953 /* Pods-PRBuildTest_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PRBuildTest_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		CD213C5E6691B060328922ECC94DDA21 /* Pods-PRBuildTest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-PRBuildTest_Tests.modulemap"; sourceTree = "<group>"; };
+		CD213C5E6691B060328922ECC94DDA21 /* Pods-PRBuildTest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-PRBuildTest_Tests.modulemap"; sourceTree = "<group>"; };
 		DDF8E38263A9DD8319B6FF1A0FFFC34C /* Pods-PRBuildTest_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PRBuildTest_Example-frameworks.sh"; sourceTree = "<group>"; };
 		DF99B9F47758D91315FAA6D69C645B15 /* Pods-PRBuildTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PRBuildTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E74B360A89BBEA3F731D9A99D4213AFF /* Pods-PRBuildTest_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PRBuildTest_Tests-resources.sh"; sourceTree = "<group>"; };
@@ -97,7 +97,6 @@
 			children = (
 				EEC52BA6162653D774CFA26BC8A984D4 /* ReplaceMe.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -115,7 +114,6 @@
 			children = (
 				1B1F15418B66A98C8CD7F1C4F88A6E79 /* Classes */,
 			);
-			name = PRBuildTest;
 			path = PRBuildTest;
 			sourceTree = "<group>";
 		};
@@ -314,6 +312,14 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					307B65448D539A700FBE8AF3F94F45A5 = {
+						LastSwiftMigration = 0820;
+					};
+					8A66C2B1BF57B31DEC7472CC23F8EBD5 = {
+						LastSwiftMigration = 0820;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
