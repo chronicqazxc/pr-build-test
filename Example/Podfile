@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PRBuildTest_Example' do
+  pod 'PRBuildTest', :path => '../'
+
+  target 'PRBuildTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

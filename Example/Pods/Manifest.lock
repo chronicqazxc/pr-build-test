@@ -1,0 +1,16 @@
+PODS:
+  - PRBuildTest (0.1.0)
+
+DEPENDENCIES:
+  - PRBuildTest (from `../`)
+
+EXTERNAL SOURCES:
+  PRBuildTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PRBuildTest: d2eef9b67b40854c40c0239454f02143d6ddee52
+
+PODFILE CHECKSUM: 67184fd6f178b31fe61ce08a21defed45afffcc6
+
+COCOAPODS: 1.2.1

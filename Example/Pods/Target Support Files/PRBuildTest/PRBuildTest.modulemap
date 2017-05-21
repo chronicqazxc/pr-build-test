@@ -1,0 +1,6 @@
+framework module PRBuildTest {
+  umbrella header "PRBuildTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
